@@ -12,4 +12,4 @@
 
 </div><br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashilayoliveira&bg_color=000000&color=59ff00&line=04ff00&point=8102e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashilayoliveira&bg_color=000000&color=59ff00&line=6000f0&point=40e802&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
