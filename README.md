@@ -11,3 +11,5 @@
   <img align="center" al src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 </div><br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashilayoliveira&bg_color=000000&color=59ff00&line=04ff00&point=8102e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
